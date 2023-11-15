@@ -17,7 +17,5 @@ Heeren, S., Maes, I., Sanders, M., Lye, L.-F., Arevalo, J., Llanos-Cuentas, A., 
 ## Licence:
 MIT : See LICENCE file
 
-### Recommended use: 
-follow the script step by step!!!
-Otherwise some things may go wrong as not everything is automated.
-(e.g. some input files, mostly raster files, will be required to be downloaded first.)
+
+(some input files, mostly raster files, will be required to be downloaded first, but is stated in the scripts.)
