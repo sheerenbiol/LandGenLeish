@@ -1,6 +1,6 @@
 # LandGenLeish
 Aka Landscape Genomics Leishmania (braziliensis)
-
+DOI: 10.5281/zenodo.10136588
 ## Content
 
 Two R scripts 'LandGen.R' and 'EcolNichMod.R' that were used to perform landscape genomic analyses and environmental niche modeling, respectively, for Leishmania braziliensis populations identified in Peru and Bolivia. Session logs of the most recent script usage are present as well.
