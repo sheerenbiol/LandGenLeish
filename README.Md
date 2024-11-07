@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/740918309.svg)](https://doi.org/10.5281/zenodo.14050955)
+
 # LandGenLeish
 Aka Landscape Genomics Leishmania (braziliensis)
 DOI: 10.5281/zenodo.10136588
